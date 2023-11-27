@@ -6,15 +6,22 @@ module.exports = {
       margin: {
         '17': '4.25rem', // Ajout d'une classe mt-17 avec une marge supérieure de 4.25rem
         '18': '4.5rem',  // Ajout d'une classe mt-18 avec une marge supérieure de 4.5rem
+        '84':'22rem',
+        '98':'26rem',
       },
       colors:{
         'bbrown':"#333333"
+      },
+      minHeight: {
+        '553': '553px',
+      },
+      Height:{
+        '553':'553px',
       }
     },
     fontFamily: {
       'times': ['Times New Roman', 'serif'],
     },
-    
     
   },
   plugins: [],
