@@ -9,18 +9,28 @@ module.exports = {
         '84':'22rem',
         '98':'26rem',
       },
+      top:{
+        '98': '26rem',  
+        '100':'30rem',
+      },
       colors:{
-        'bbrown':"#333333"
+        'bbrown':"#333333",
+        'reed':["#f15048","!important"],
       },
       minHeight: {
         '553': '553px',
       },
       Height:{
         '553':'553px',
-      }
+      },
+      fontSize:{
+        '9xl':'7rem',
+      },
     },
     fontFamily: {
-      'times': ['Times New Roman', 'serif'],
+      'times': ['Times New Roman', 'serif !important'],
+      'roboto':['Roboto Slab','serif !important'],
+      'open':['Open Sans','sans-serif'],
     },
     
   },
